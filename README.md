@@ -10,6 +10,7 @@ A transformative platform designed to tackle food wastage and food insecurity by
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Output](#Output)
 - [Future Scope](#future-scope)
 
 ## Abstract
@@ -66,7 +67,7 @@ The platform connects donors with receivers through a modular system:
    ```bash
    streamlit run app.py
    ```
-
+   
 ## Usage
 - **Donors**: Post available food for donation.
 - **Receivers**: Browse and request donations.
@@ -74,6 +75,14 @@ The platform connects donors with receivers through a modular system:
 
 ## Contributing
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## Output
+![Screenshot 2024-11-23 131328](https://github.com/user-attachments/assets/1c6279ba-8ac0-45ee-83a4-c32d9a50c87e)
+![Screenshot 2024-11-19 130854](https://github.com/user-attachments/assets/4ac7a9db-11d0-4c38-9653-c72692065681)
+![Screenshot 2024-11-19 131024](https://github.com/user-attachments/assets/4c1e8fbd-e977-4f02-90e8-71d64ef91cc7)
+![Screenshot 2024-11-19 131106](https://github.com/user-attachments/assets/3ad900a0-570c-4a5e-b477-51ded99e71c4)
+![Screenshot 2024-11-19 131149](https://github.com/user-attachments/assets/f03c9013-e519-42be-9541-0322fe6abc70)
+![Screenshot 2024-11-19 131217](https://github.com/user-attachments/assets/73bdb0e8-0570-46b5-bf2b-ae338922e3c1)
 
 ## Future Scope
 - Expand to additional cities.
