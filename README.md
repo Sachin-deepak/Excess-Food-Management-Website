@@ -9,7 +9,6 @@ A transformative platform designed to tackle food wastage and food insecurity by
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Output](#Output)
 - [Future Scope](#future-scope)
 
@@ -72,9 +71,6 @@ The platform connects donors with receivers through a modular system:
 - **Donors**: Post available food for donation.
 - **Receivers**: Browse and request donations.
 - **Community**: Engage in forums for collaborative solutions.
-
-## Contributing
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## Output
 ![Screenshot 2024-11-23 131328](https://github.com/user-attachments/assets/1c6279ba-8ac0-45ee-83a4-c32d9a50c87e)
