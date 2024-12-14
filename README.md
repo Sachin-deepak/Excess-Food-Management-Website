@@ -1,4 +1,4 @@
-# Excess Food Management Platform (Foodsaver)
+# Excess Food Management Website (Foodsaver)
 
 A transformative platform designed to tackle food wastage and food insecurity by connecting donors with surplus food to those in need, leveraging mobile technology for sustainable and equitable solutions.
 
